@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/stats-preview-htmlcss-KvtVUixgtU)
-- Live Site : [Stats-Preview](https://tremy-t.github.io/Stats-Preview/)
+- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/huddle-landing-page-htmlcss-2J6R5n6UW-)
+- Live Site : [Huddle landing page](https://tremy-t.github.io/Huddle-landing-page/)
 
 - ## Author
 
